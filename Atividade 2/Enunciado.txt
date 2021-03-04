@@ -1,0 +1,8 @@
+1. Escrever algoritmo recursivo para verificar se a árvore binária de busca
+passada como parâmetro é balanceada. Retorne 1 para verdadeiro e -1 para falso.
+
+Protótipo da função: int verificaBal(Arv *a);
+
+2. Escreva uma função que verifique se uma árvore binária é cheia. Uma árvore é dita cheia se todos os nós que não são folhas têm os dois filhos, isto é, não pode existir nó com apenas um filho. A função deve retornar 1 no caso da árvore ser cheia ou 0 no caso de não ser. No caso da árvore ser vazia, a função também deve retornar 1. O protótipo da função deve ser:
+
+int cheia (Arv* a);
